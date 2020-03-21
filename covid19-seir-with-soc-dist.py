@@ -1,6 +1,9 @@
 # SEIR model    byeongchul@gmail.com
 # semi-implicit Euler method
 # refer: https://towardsdatascience.com/social-distancing-to-slow-the-coronavirus-768292f04296
+# REMARK: The following is an implementation from Christian Hubbs' article.
+#         Most of codes are explained by Christian himself.
+#         My work is just to write them.
 #
 import numpy as np
 import matplotlib.pyplot as plt
